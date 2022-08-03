@@ -1,0 +1,3 @@
+Keystore Pass: Dsm@2022
+Alias: marketing
+Alias Pass: Dsm@2022
